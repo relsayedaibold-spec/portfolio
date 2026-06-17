@@ -1,12 +1,8 @@
 # Ragwa Elsayed — Portfolio
 
 Product & UX · Healthcare Technology. Static site — **every page is fully self-contained**
-Product & UX portfolio — healthcare technology. Hand-coded, deployed on Vercel.
 (CSS inlined), so it renders correctly whether you open it locally or host it. No build step.
-- Responsive landing with hub-and-spoke case studies
-- Six enterprise UX case studies (10x Genomics, Natera, Culture Bioscience)
-- AIBold product pages (CarePath AI, GlowAI)
-- Hand-coded, self-contained pages; deployed on Vercel
+
 ## Files
 ```
 index.html                       # landing (overview + compact case cards)
